@@ -1,0 +1,362 @@
+[
+	{
+
+		"name": "Delivery Token",
+	
+		"count":  100,
+	
+		"category": ["Victory"],
+	
+		"progression_skip_balancing": true
+		},
+	{
+
+	"name": "Albania Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: West Balkans"],
+
+	"progression": true
+	},
+	{
+
+	"name": "Austria Key",
+
+	"count":  1,
+
+	"category": ["Country Keys"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Belgium Key",
+
+	"count":  1,
+
+	"category": ["Country Keys"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Bosnia and Herzegovina Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: West Balkans"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Bulgaria Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Black Sea"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Croatia Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: West Balkans"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Czech Republic Key",
+
+	"count":  1,
+
+	"category": ["Country Keys"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Denmark Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Scandinavia"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Estonia Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Baltic Sea"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Finland Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Baltic Sea"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "France Key",
+
+	"count":  1,
+
+	"category": ["Country Keys"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Greece Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Greece"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Hungary Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Going East"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Italy Key",
+
+	"count":  1,
+
+	"category": ["Country Keys"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Kaliningrad Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Baltic Sea"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Kosovo Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: West Balkans"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Latvia Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Baltic Sea"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Lithuania Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Baltic Sea"],
+
+	"progression": true
+  },
+  {
+
+	"name": "Luxembourg Key",
+
+	"count":  1,
+
+	"category": ["Country Keys"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Montenegro Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: West Balkans"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Netherlands Key",
+
+	"count":  1,
+
+	"category": ["Country Keys"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "North Macedonia Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: West Balkans"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Norway Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Scandinavia"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Poland Key",
+
+	"count":  1,
+
+	"category": ["Country Keys"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Portugal Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Iberia"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Romania Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Black Sea"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Russia Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Baltic Sea"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Serbia Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: West Balkans"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Slovakia Key",
+
+	"count":  1,
+
+	"category": ["Country Keys"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Slovenia Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: West Balkans"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Spain Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Iberia"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Sweden Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Scandinavia"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Switzerland Key",
+
+	"count":  1,
+
+	"category": ["Country Keys"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "Türkiye Key",
+
+	"count":  1,
+
+	"category": ["Country Keys", "DLC: Black Sea"],
+
+	"progression": true
+  },
+  {
+    
+	"name": "United Kingdom Key",
+
+	"count":  1,
+
+	"category": ["Country Keys"],
+
+	"progression": true
+  }
+]

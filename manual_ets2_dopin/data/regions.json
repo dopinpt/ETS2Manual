@@ -1,0 +1,419 @@
+{ 
+  "Germany": {
+    
+		"requires": [],
+    
+		"connects_to": [
+      "Netherlands",
+      "Belgium",
+      "Luxembourg",
+      "France",
+      "Switzerland",
+      "Austria",
+      "Czech Republic",
+      "Poland",
+      "Denmark",
+      "Sweden",
+      "Latvia",
+      "Finland"
+    ],
+   
+		"starting": true
+  },
+  "Albania": {
+    
+    "requires": "|Albania Key|",
+    
+    "connects_to": [
+      "Montenegro",
+      "North Macedonia",
+      "Kosovo",
+      "Italy",
+      "Greece"
+    ]
+  },
+  "Austria": {
+    
+		"requires": "|Austria Key|",
+    
+		"connects_to": [
+      "Italy",
+      "Switzerland",
+      "Germany",
+      "Czech Republic",
+      "Slovakia",
+      "Hungary",
+      "Slovenia"
+    ]
+  },
+  "Belgium": {
+    
+		"requires": "|Belgium Key|",
+    
+		"connects_to": [
+      "Netherlands",
+      "Germany",
+      "Luxembourg",
+      "France"
+    ]
+  },
+  "Bosnia and Herzegovina": {
+    
+    "requires": "|Bosnia and Herzegovina Key|",
+    
+    "connects_to": [
+      "Croatia",
+      "Serbia",
+      "Montenegro"
+    ]
+  },
+  "Bulgaria": {
+    
+    "requires": "|Bulgaria Key|",
+    
+    "connects_to": [
+      "Romania",
+      "Serbia",
+      "Türkiye",
+      "North Macedonia",
+      "Greece"
+    ]
+  },
+  "Croatia": {
+    
+    "requires": "|Croatia Key|",
+    
+    "connects_to": [
+      "Serbia",
+      "Bosnia and Herzegovina",
+      "Slovenia",
+      "Hungary",
+      "Italy"
+    ]
+  },
+  "Czech Republic": {
+    
+		"requires": "|Czech Republic Key|",
+    
+		"connects_to": [
+      "Austria",
+      "Germany",
+      "Poland",
+      "Slovakia"
+    ]
+  },
+  "Denmark": {
+    
+    "requires": "|Denmark Key|",
+    
+    "connects_to": [
+      "Germany",
+      "Sweden",
+      "Norway",
+      "United Kingdom"
+    ]
+  },
+  "Estonia": {
+    
+    "requires": "|Estonia Key|",
+    
+    "connects_to": [
+      "Russia",
+      "Latvia",
+      "Finland",
+      "Sweden"
+    ]
+  },
+  "Finland": {
+    
+    "requires": "|Finland Key|",
+    
+    "connects_to": [
+      "Russia",
+      "Sweden",
+      "Estonia",
+      "Germany"
+    ]
+  },
+  "France": {
+    
+		"requires": "|France Key|",
+    
+		"connects_to": [
+      "Spain",
+      "Belgium",
+      "Germany",
+      "Luxembourg",
+      "Switzerland",
+      "Italy",
+      "United Kingdom"
+    ]
+  },
+  "Greece": {
+    
+		"requires": "|Greece Key|",
+    
+		"connects_to": [
+      "Albania",
+      "North Macedonia",
+      "Bulgaria",
+      "Türkiye",
+      "Italy"
+    ]
+  },
+  "Hungary": {
+    
+    "requires": "|Hungary Key|",
+    
+    "connects_to": [
+      "Austria",
+      "Slovakia",
+      "Romania",
+      "Serbia",
+      "Croatia",
+      "Slovenia"
+    ]
+  },
+  "Italy": {
+    
+		"requires": "|Italy Key|",
+    
+		"connects_to": [
+      "France",
+      "Switzerland",
+      "Austria",
+      "Slovenia",
+      "Spain",
+      "Croatia",
+      "Albania",
+      "Greece"
+    ]
+  },
+  "Kaliningrad": {
+    
+    "requires": "|Kaliningrad Key|",
+    
+    "connects_to": [
+      "Lithuania",
+      "Poland"
+    ]
+  },
+  "Kosovo": {
+    
+    "requires": "|Kosovo Key|",
+    
+    "connects_to": [
+      "North Macedonia",
+      "Montenegro",
+      "Albania",
+      "Serbia"
+    ]
+  },
+  "Latvia": {
+    
+    "requires": "|Latvia Key|",
+    
+    "connects_to": [
+      "Russia",
+      "Estonia",
+      "Lithuania",
+      "Sweden",
+      "Germany"
+    ]
+  },
+  "Lithuania": {
+    
+    "requires": "|Lithuania Key|",
+    
+    "connects_to": [
+      "Kaliningrad",
+      "Latvia"
+    ]
+  },
+  "Luxembourg": {
+    
+		"requires": "|Luxembourg Key|",
+    
+		"connects_to": [
+      "Belgium",
+      "Germany",
+      "France"
+    ]
+  },
+  "Montenegro": {
+    
+    "requires": "|Montenegro Key|",
+    
+    "connects_to": [
+      "Bosnia and Herzegovina",
+      "Serbia",
+      "Kosovo",
+      "Albania"
+    ]
+  },
+  "Netherlands": {
+    
+		"requires": "|Netherlands Key|",
+    
+		"connects_to": [
+      "Belgium",
+      "Germany",
+      "United Kingdom"
+    ]
+  },
+  "North Macedonia": {
+    
+    "requires": "|North Macedonia Key|",
+    
+    "connects_to": [
+      "Albania",
+      "Serbia",
+      "Kosovo",
+      "Bulgaria",
+      "Greece"
+    ]
+  },
+  "Norway": {
+    
+    "requires": "|Norway Key|",
+    
+    "connects_to": [
+      "Sweden",
+      "Denmark"
+    ]
+  },
+  "Poland": {
+    
+		"requires": "|Poland Key|",
+    
+		"connects_to": [
+      "Germany",
+      "Czech Republic",
+      "Slovakia",
+      "Kaliningrad",
+      "Sweden"
+    ]
+  },
+  "Portugal": {
+    
+		"requires": "|Portugal Key|",
+    
+		"connects_to": [
+      "Spain"
+    ]
+  },
+  "Romania": {
+    
+    "requires": "|Romania Key|",
+    
+    "connects_to": [
+      "Hungary",
+      "Serbia",
+      "Bulgaria"
+    ]
+  },
+  "Russia": {
+    
+    "requires": "|Russia Key|",
+    
+    "connects_to": [
+      "Finland",
+      "Estonia",
+      "Latvia"
+    ]
+  },
+  "Serbia": {
+    
+    "requires": "|Serbia Key|",
+    
+    "connects_to": [
+      "North Macedonia",
+      "Montenegro",
+      "Kosovo",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Hungary",
+      "Romania",
+      "Bulgaria"
+    ]
+  },
+  "Slovakia": {
+    
+		"requires": "|Slovakia Key|",
+    
+		"connects_to": [
+      "Poland",
+      "Czech Republic",
+      "Austria",
+      "Hungary"
+    ]
+  },
+  "Slovenia": {
+    
+    "requires": "|Slovenia Key|",
+    
+    "connects_to": [
+      "Austria",
+      "Italy",
+      "Hungary",
+      "Croatia"
+    ]
+  },
+  "Spain": {
+    
+		"requires": "|Spain Key|",
+    
+		"connects_to": [
+      "France",
+      "Italy",
+      "Portugal",
+      "United Kingdom"
+    ]
+  },
+  "Sweden": {
+    
+    "requires": "|Sweden Key|",
+    
+    "connects_to": [
+      "Norway",
+      "Denmark",
+      "Finland",
+      "Estonia",
+      "Latvia",
+      "Poland",
+      "Germany"
+    ]
+  },
+  "Switzerland": {
+    
+		"requires": "|Switzerland Key|",
+    
+		"connects_to": [
+      "France",
+      "Germany",
+      "Austria",
+      "Italy"
+    ]
+  },
+  "Türkiye": {
+    
+    "requires": "|Türkiye Key|",
+    
+    "connects_to": [
+      "Bulgaria",
+      "Greece"
+    ]
+  },
+  "United Kingdom": {
+    
+		"requires": "|United Kingdom Key|",
+    
+		"connects_to": [
+      "Denmark",
+      "France",
+      "Netherlands",
+      "Spain"
+    ]
+  } 
+  
+}

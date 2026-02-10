@@ -1,0 +1,5748 @@
+[
+  {
+    
+		"name": "City: Beja",
+
+		"requires": [],
+
+		"region": "Portugal",
+
+		"category": ["Portugal", "DLC: Iberia"]
+  },
+  {
+    
+		"name": "City: Coimbra",
+
+		"requires": [],
+
+		"region": "Portugal",
+
+		"category": ["Portugal", "DLC: Iberia"]
+  },
+  {
+    
+		"name": "City: Cortiçadas de Lavre",
+
+		"requires": [],
+
+		"region": "Portugal",
+
+		"category": ["Portugal", "DLC: Iberia"]
+  },
+  {
+    
+		"name": "City: Évora",
+
+		"requires": [],
+
+		"region": "Portugal",
+
+		"category": ["Portugal", "DLC: Iberia"]
+  },
+  {
+    
+		"name": "City: Faro",
+
+		"requires": [],
+
+		"region": "Portugal",
+
+		"category": ["Portugal", "DLC: Iberia"]
+  },
+  {
+    
+		"name": "City: Guarda",
+
+		"requires": [],
+
+		"region": "Portugal",
+
+		"category": ["Portugal", "DLC: Iberia"]
+  },
+  {
+    
+		"name": "City: Lisbon",
+
+		"requires": [],
+
+		"region": "Portugal",
+
+		"category": ["Portugal", "DLC: Iberia"]
+   },
+   {
+    
+		"name": "City: Olhão",
+
+		"requires": [],
+
+		"region": "Portugal",
+
+		"category": ["Portugal", "DLC: Iberia"]
+  },
+  {
+    
+		"name": "City: Ponte de Sor",
+
+		"requires": [],
+
+		"region": "Portugal",
+
+		"category": ["Portugal", "DLC: Iberia"]
+  },
+  {
+    
+		"name": "City: Porto",
+
+		"requires": [],
+
+		"region": "Portugal",
+
+		"category": ["Portugal", "DLC: Iberia"]
+  },
+  {
+    
+		"name": "City: Setúbal",
+
+		"requires": [],
+
+		"region": "Portugal",
+
+		"category": ["Portugal", "DLC: Iberia"]
+  },  
+  {
+    
+		"name": "City: Sines",
+
+		"requires": [],
+
+		"region": "Portugal",
+
+		"category": ["Portugal", "DLC: Iberia"]
+  },
+  {
+    
+	"name": "Photo Trophy: Douro River View",
+
+	"requires": [],
+
+	"region": "Portugal",
+
+	"category": ["Portugal", "DLC: Iberia", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Dragon Stadium in Porto",
+
+	"requires": [],
+
+	"region": "Portugal",
+
+	"category": ["Portugal", "DLC: Iberia", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Lisbon 25 Abril Bridge",
+
+	"requires": [],
+
+	"region": "Portugal",
+
+	"category": ["Portugal", "DLC: Iberia", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: Guadiana International Bridge",
+
+	"requires": [],
+
+	"region": "Portugal",
+
+	"category": ["Portugal", "DLC: Iberia", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: The City of Olhão",
+
+	"requires": [],
+
+	"region": "Portugal",
+
+	"category": ["Portugal", "DLC: Iberia", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: The Harbour of Porto",
+
+	"requires": [],
+
+	"region": "Portugal",
+
+	"category": ["Portugal", "DLC: Iberia", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: The Port of Sines",
+
+	"requires": [],
+
+	"region": "Portugal",
+
+	"category": ["Portugal", "DLC: Iberia", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: 25 de Abril Bridge",
+
+	"requires": [],
+
+	"region": "Portugal",
+
+	"category": ["Portugal", "DLC: Iberia", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Durrës",
+
+		"requires": [],
+
+		"region": "Albania",
+
+		"category": ["Albania", "DLC: West Balkans"]
+  },
+  {
+    
+		"name": "City: Tirana",
+
+		"requires": [],
+
+		"region": "Albania",
+
+		"category": ["Albania", "DLC: West Balkans"]
+  },
+  {
+    
+		"name": "City: Vlorë",
+
+		"requires": [],
+
+		"region": "Albania",
+
+		"category": ["Albania", "DLC: West Balkans"]
+  },
+  {
+		
+		"name": "Photo Trophy: Durrës Ferry Terminal",
+
+		"requires": [],
+
+		"region": "Albania",
+
+		"category": ["Albania", "DLC: West Balkans", "Photo Trophy"]
+  },
+  {
+		
+		"name": "Photo Trophy: Tirana Skyline",
+
+		"requires": [],
+
+		"region": "Albania",
+
+		"category": ["Albania", "DLC: West Balkans", "Photo Trophy"]
+  },
+  {
+		
+		"name": "Viewpoint: Durrës Marina",
+
+		"requires": [],
+
+		"region": "Albania",
+
+		"category": ["Albania", "DLC: West Balkans", "Viewpoint"]
+  },
+  {
+		
+		"name": "Viewpoint: Fier Oil Fields",
+
+		"requires": [],
+
+		"region": "Albania",
+
+		"category": ["Albania", "DLC: West Balkans", "Viewpoint"]
+  },
+  {
+		
+		"name": "Viewpoint: Tirana",
+
+		"requires": [],
+
+		"region": "Albania",
+
+		"category": ["Albania", "DLC: West Balkans", "Viewpoint"]
+  },
+  {
+
+		"name": "City: Graz",
+
+		"requires": [],
+
+		"region": "Austria",
+
+		"category": ["Austria"]
+  },
+  {
+    
+		"name": "City: Innsbruck",
+
+		"requires": [],
+
+		"region": "Austria",
+
+		"category": ["Austria"]
+  },
+  {
+
+		"name": "City: Klagenfurt am Wörthersee",
+
+		"requires": [],
+
+		"region": "Austria",
+
+		"category": ["Austria"]
+  },
+  {
+
+		"name": "City: Linz",
+
+		"requires": [],
+
+		"region": "Austria",
+
+		"category": ["Austria"]
+  },
+  {
+
+		"name": "City: Salzburg",
+
+		"requires": [],
+
+		"region": "Austria",
+
+		"category": ["Austria"]
+	},
+  {
+
+		"name": "City: Vienna",
+
+		"requires": [],
+
+		"region": "Austria",
+
+		"category": ["Austria"]
+  },
+  {
+
+	"name": "Photo Trophy: Burgruine Klamm Castle",
+
+	"requires": [],
+
+	"region": "Austria",
+
+	"category": ["Austria", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Fuscher Törl Lookout",
+
+	"requires": [],
+
+	"region": "Austria",
+
+	"category": ["Austria", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Melk Monastery",
+
+	"requires": [],
+
+	"region": "Austria",
+
+	"category": ["Austria", "Photo Trophy"]
+},
+  {
+
+	"name": "Photo Trophy: Schönbrunn Palace",
+
+	"requires": [],
+
+	"region": "Austria",
+
+	"category": ["Austria", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Welzenegg Palace",
+
+	"requires": [],
+
+	"region": "Austria",
+
+	"category": ["Austria", "Photo Trophy"]
+},
+{
+
+	"name": "Viewpoint: Brenner Pass",
+
+	"requires": [],
+
+	"region": "Austria",
+
+	"category": ["Austria", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: Glossglockner",
+
+	"requires": [],
+
+	"region": "Austria",
+
+	"category": ["Austria", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: Lavant Viaduct",
+
+	"requires": [],
+
+	"region": "Austria",
+
+	"category": ["Austria", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: Schönbrunn",
+
+	"requires": [],
+
+	"region": "Austria",
+
+	"category": ["Austria", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: Wörthersee",
+
+	"requires": [],
+
+	"region": "Austria",
+
+	"category": ["Austria", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Brussels",
+    
+		"requires": [],
+    
+		"region": "Belgium",
+    
+		"category": ["Belgium"]
+  },
+  {
+    
+		"name": "City: Liege",
+    
+		"requires": [],
+    
+		"region": "Belgium",
+    
+		"category": ["Belgium"]
+  },
+  {
+    
+	"name": "Photo Trophy: Basilica of the Sacred Heart",
+
+	"requires": [],
+
+	"region": "Belgium",
+
+	"category": ["Belgium", "Photo Trophy"]
+},
+  {
+    
+		"name": "City: Banja Luka",
+
+		"requires": [],
+
+		"region": "Bosnia and Herzegovina",
+
+		"category": ["Bosnia and Herzegovina", "DLC: West Balkans"]
+  },
+  {
+    
+		"name": "City: Bihać",
+
+		"requires": [],
+
+		"region": "Bosnia and Herzegovina",
+
+		"category": ["Bosnia and Herzegovina", "DLC: West Balkans"]
+  },
+  {
+    
+		"name": "City: Karakaj",
+
+		"requires": [],
+
+		"region": "Bosnia and Herzegovina",
+
+		"category": ["Bosnia and Herzegovina", "DLC: West Balkans"]
+  },
+  {
+    
+		"name": "City: Mostar",
+
+		"requires": [],
+
+		"region": "Bosnia and Herzegovina",
+
+		"category": ["Bosnia and Herzegovina", "DLC: West Balkans"]
+  },
+  {
+    
+		"name": "City: Sarajevo",
+
+		"requires": [],
+
+		"region": "Bosnia and Herzegovina",
+
+		"category": ["Bosnia and Herzegovina", "DLC: West Balkans"]
+  },
+  {
+    
+		"name": "City: Tuzla",
+
+		"requires": [],
+
+		"region": "Bosnia and Herzegovina",
+
+		"category": ["Bosnia and Herzegovina", "DLC: West Balkans"]
+  },
+  {
+    
+		"name": "City: Zenica",
+
+		"requires": [],
+
+		"region": "Bosnia and Herzegovina",
+
+		"category": ["Bosnia and Herzegovina", "DLC: West Balkans"]
+  },
+{
+    
+	"name": "Photo Trophy: Captain's Tower",
+
+	"requires": [],
+
+	"region": "Bosnia and Herzegovina",
+
+	"category": ["Bosnia and Herzegovina", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Old Bridge in Mostar",
+
+	"requires": [],
+
+	"region": "Bosnia and Herzegovina",
+
+	"category": ["Bosnia and Herzegovina", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Sarajevo City Hall",
+
+	"requires": [],
+
+	"region": "Bosnia and Herzegovina",
+
+	"category": ["Bosnia and Herzegovina", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: Bihać",
+
+	"requires": [],
+
+	"region": "Bosnia and Herzegovina",
+
+	"category": ["Bosnia and Herzegovina", "DLC: West Balkans", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Old Town of Sarajevo",
+
+	"requires": [],
+
+	"region": "Bosnia and Herzegovina",
+
+	"category": ["Bosnia and Herzegovina", "DLC: West Balkans", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Burgas",
+
+		"requires": [],
+
+		"region": "Bulgaria",
+
+		"category": ["Bulgaria", "DLC: Black Sea"]
+  },
+  {
+    
+		"name": "City: Karlovo",
+
+		"requires": [],
+
+		"region": "Bulgaria",
+
+		"category": ["Bulgaria", "DLC: Black Sea"]
+  },
+  {
+    
+		"name": "City: Kozloduy",
+
+		"requires": [],
+
+		"region": "Bulgaria",
+
+		"category": ["Bulgaria", "DLC: Black Sea"]
+  },
+  {
+    
+		"name": "City: Pernik",
+
+		"requires": [],
+
+		"region": "Bulgaria",
+
+		"category": ["Bulgaria", "DLC: Black Sea"]
+  },
+  {
+    
+		"name": "City: Pirdop",
+
+		"requires": [],
+
+		"region": "Bulgaria",
+
+		"category": ["Bulgaria", "DLC: Black Sea"]
+  },
+  {
+    
+		"name": "City: Pleven",
+
+		"requires": [],
+
+		"region": "Bulgaria",
+
+		"category": ["Bulgaria", "DLC: Black Sea"]
+  },
+  {
+    
+		"name": "City: Plovdiv",
+
+		"requires": [],
+
+		"region": "Bulgaria",
+
+		"category": ["Bulgaria", "DLC: Black Sea"]
+  },
+  {
+    
+		"name": "City: Ruse",
+
+		"requires": [],
+
+		"region": "Bulgaria",
+
+		"category": ["Bulgaria", "DLC: Black Sea"]
+  },
+  {
+    
+		"name": "City: Sofia",
+
+		"requires": [],
+
+		"region": "Bulgaria",
+
+		"category": ["Bulgaria", "DLC: Black Sea"]
+  },
+  {
+    
+		"name": "City: Varna",
+
+		"requires": [],
+
+		"region": "Bulgaria",
+
+		"category": ["Bulgaria", "DLC: Black Sea"]
+  },
+  {
+    
+		"name": "City: Veliko Tarnovo",
+
+		"requires": [],
+
+		"region": "Bulgaria",
+
+		"category": ["Bulgaria", "DLC: Black Sea"]
+  },
+  {
+    
+	"name": "Photo Trophy: Apartment Buildings Varna",
+
+	"requires": [],
+
+	"region": "Bulgaria",
+
+	"category": ["Bulgaria", "DLC: Black Sea", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: New Europe Bridge",
+
+	"requires": [],
+
+	"region": "Bulgaria",
+
+	"category": ["Bulgaria", "DLC: Black Sea", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Veliko Tarnovo",
+
+	"requires": [],
+
+	"region": "Bulgaria",
+
+	"category": ["Bulgaria", "DLC: Black Sea", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Ruse Central Train Station",
+
+	"requires": [],
+
+	"region": "Bulgaria",
+
+	"category": ["Bulgaria", "DLC: Black Sea", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: Giurgiu-Ruse Bridge",
+
+	"requires": [],
+
+	"region": "Bulgaria",
+
+	"category": ["Bulgaria", "DLC: Black Sea", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Port of Burgas",
+
+	"requires": [],
+
+	"region": "Bulgaria",
+
+	"category": ["Bulgaria", "DLC: Black Sea", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Steelworks of Pernik",
+
+	"requires": [],
+
+	"region": "Bulgaria",
+
+	"category": ["Bulgaria", "DLC: Black Sea", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Osijek",
+
+		"requires": [],
+
+		"region": "Croatia",
+
+		"category": ["Croatia", "DLC: West Balkans"]
+  },
+  {
+    
+		"name": "City: Rijeka",
+
+		"requires": [],
+
+		"region": "Croatia",
+
+		"category": ["Croatia", "DLC: West Balkans"]
+  },
+  {
+    
+		"name": "City: Split",
+
+		"requires": [],
+
+		"region": "Croatia",
+
+		"category": ["Croatia", "DLC: West Balkans"]
+  },
+  {
+    
+		"name": "City: Zagreb",
+
+		"requires": [],
+
+		"region": "Croatia",
+
+		"category": ["Croatia", "DLC: West Balkans"]
+  },
+  {
+    
+		"name": "City: Zadar",
+
+		"requires": [],
+
+		"region": "Croatia",
+
+		"category": ["Croatia", "DLC: West Balkans"]
+  },
+  {
+    
+	"name": "Photo Trophy: Diocletian's Palace",
+
+	"requires": [],
+
+	"region": "Croatia",
+
+	"category": ["Croatia", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Dr. Franjo Tuđman Bridge",
+
+	"requires": [],
+
+	"region": "Croatia",
+
+	"category": ["Croatia", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Pelješac Bridge",
+
+	"requires": [],
+
+	"region": "Croatia",
+
+	"category": ["Croatia", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Trsat Castle",
+
+	"requires": [],
+
+	"region": "Croatia",
+
+	"category": ["Croatia", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: Dubrovnik",
+
+	"requires": [],
+
+	"region": "Croatia",
+
+	"category": ["Croatia", "DLC: West Balkans", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Rijeka Port",
+
+	"requires": [],
+
+	"region": "Croatia",
+
+	"category": ["Croatia", "DLC: West Balkans", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Split",
+
+	"requires": [],
+
+	"region": "Croatia",
+
+	"category": ["Croatia", "DLC: West Balkans", "Viewpoint"]
+},
+  {
+
+		"name": "City: Brno",
+
+		"requires": [],
+
+		"region": "Czech Republic",
+
+		"category": ["Czech Republic"]
+  },
+  {
+
+		"name": "City: Ostrava",
+
+		"requires": [],
+
+		"region": "Czech Republic",
+
+		"category": ["Czech Republic", "DLC: Going East"]
+  },
+  {
+    
+		"name": "City: Prague",
+
+		"requires": [],
+
+		"region": "Czech Republic",
+
+		"category": ["Czech Republic"]
+  },
+  {
+    
+	"name": "Photo Trophy: Cathedral of St. Peter and Paul",
+
+	"requires": [],
+
+	"region": "Czech Republic",
+
+	"category": ["Czech Republic", "Photo Trophy"]
+},
+  {
+    
+	"name": "Photo Trophy: Žižkov Television Tower",
+
+	"requires": [],
+
+	"region": "Czech Republic",
+
+	"category": ["Czech Republic", "Photo Trophy"]
+},
+  {
+    
+		"name": "City: Aalborg",
+
+		"requires": [],
+
+		"region": "Denmark",
+
+		"category": ["Denmark", "DLC: Scandinavia"]
+  },
+  {
+    
+		"name": "City: Copenhagen",
+
+		"requires": [],
+
+		"region": "Denmark",
+
+		"category": ["Denmark", "DLC: Scandinavia"]
+  },
+  {
+    
+		"name": "City: Esbjerg",
+
+		"requires": [],
+
+		"region": "Denmark",
+
+		"category": ["Denmark", "DLC: Scandinavia"]
+  },
+  {
+    
+		"name": "City: Frederikshavn",
+
+		"requires": [],
+
+		"region": "Denmark",
+
+		"category": ["Denmark", "DLC: Scandinavia"]
+  },
+  {
+    
+		"name": "City: Gedser",
+
+		"requires": [],
+
+		"region": "Denmark",
+
+		"category": ["Denmark", "DLC: Scandinavia"]
+  },
+  {
+    
+		"name": "City: Hirtshals",
+
+		"requires": [],
+
+		"region": "Denmark",
+
+		"category": ["Denmark", "DLC: Scandinavia"]
+  },
+  {
+    
+		"name": "City: Odense",
+
+		"requires": [],
+
+		"region": "Denmark",
+
+		"category": ["Denmark", "DLC: Scandinavia"]
+  },
+  {
+    
+	"name": "Photo Trophy: Great Belt Bridge",
+
+	"requires": [],
+
+	"region": "Denmark",
+
+	"category": ["Denmark", "DLC: Scandinavia", "Photo Trophy"]
+},
+  {
+    
+	"name": "Photo Trophy: New Little Belt Bridge",
+
+	"requires": [],
+
+	"region": "Denmark",
+
+	"category": ["Denmark", "DLC: Scandinavia", "Photo Trophy"]
+},
+  {
+    
+		"name": "City: Kunda",
+
+		"requires": [],
+
+		"region": "Estonia",
+
+		"category": ["Estonia", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Narva",
+
+		"requires": [],
+
+		"region": "Estonia",
+
+		"category": ["Estonia", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Paldiski",
+
+		"requires": [],
+
+		"region": "Estonia",
+
+		"category": ["Estonia", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Pärnu",
+
+		"requires": [],
+
+		"region": "Estonia",
+
+		"category": ["Estonia", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Tallinn",
+
+		"requires": [],
+
+		"region": "Estonia",
+
+		"category": ["Estonia", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Tartu",
+
+		"requires": [],
+
+		"region": "Estonia",
+
+		"category": ["Estonia", "DLC: Baltic Sea"]
+  },
+{
+    
+	"name": "Photo Trophy: Endla Theatre",
+
+	"requires": [],
+
+	"region": "Estonia",
+
+	"category": ["Estonia", "DLC: Baltic Sea", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Hermann Castle",
+
+	"requires": [],
+
+	"region": "Estonia",
+
+	"category": ["Estonia", "DLC: Baltic Sea", "Photo Trophy"]
+},
+
+{
+    
+	"name": "Photo Trophy: St. Peter's Church in Tartu",
+
+	"requires": [],
+
+	"region": "Estonia",
+
+	"category": ["Estonia", "DLC: Baltic Sea", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Tallinn Airport",
+
+	"requires": [],
+
+	"region": "Estonia",
+
+	"category": ["Estonia", "DLC: Baltic Sea", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: Ivangorod Fortress and Hermann Castle",
+
+	"requires": [],
+
+	"region": "Estonia",
+
+	"category": ["Estonia", "DLC: Baltic Sea", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Port of Tallinn",
+
+	"requires": [],
+
+	"region": "Estonia",
+
+	"category": ["Estonia", "DLC: Baltic Sea", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Helsinki",
+
+		"requires": [],
+
+		"region": "Finland",
+
+		"category": ["Finland", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Kotka",
+
+		"requires": [],
+
+		"region": "Finland",
+
+		"category": ["Finland", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Kouvola",
+
+		"requires": [],
+
+		"region": "Finland",
+
+		"category": ["Finland", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Lahti",
+
+		"requires": [],
+
+		"region": "Finland",
+
+		"category": ["Finland", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Loviisa",
+
+		"requires": [],
+
+		"region": "Finland",
+
+		"category": ["Finland", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Naantali",
+
+		"requires": [],
+
+		"region": "Finland",
+
+		"category": ["Finland", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Olkiluoto",
+
+		"requires": [],
+
+		"region": "Finland",
+
+		"category": ["Finland", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Pori",
+
+		"requires": [],
+
+		"region": "Finland",
+
+		"category": ["Finland", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Tampere",
+
+		"requires": [],
+
+		"region": "Finland",
+
+		"category": ["Finland", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Turku",
+
+		"requires": [],
+
+		"region": "Finland",
+
+		"category": ["Finland", "DLC: Baltic Sea"]
+  },
+  {
+    
+	"name": "Photo Trophy: Helsinki Ruoholahti Quarter",
+
+	"requires": [],
+
+	"region": "Finland",
+
+	"category": ["Finland", "DLC: Baltic Sea", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: West Harbour of Helsinki",
+
+	"requires": [],
+
+	"region": "Finland",
+
+	"category": ["Finland", "DLC: Baltic Sea", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Ajaccio",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+		
+		"name": "City: Bastia",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Bayonne",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Bonifacio",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Bordeaux",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Bourges",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Brest",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Calais",
+    
+		"requires": [],
+    
+		"region": "France",
+    
+		"category": ["France"]
+  },
+  {
+    
+		"name": "City: Calvi",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Civaux",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Clermont-Ferrand",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Dijon",
+    
+		"requires": [],
+    
+		"region": "France",
+    
+		"category": ["France"]
+  },
+  {
+    
+		"name": "City: Golfech",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: La Rochelle",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Lacq",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Le Havre",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Le Mans",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+	{
+		
+		"name": "City: L'Ile-Rousse",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Lille",
+    
+		"requires": [],
+    
+		"region": "France",
+    
+		"category": ["France"]
+  },
+  {
+    
+		"name": "City: Limoges",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Lyon",
+    
+		"requires": [],
+    
+		"region": "France",
+    
+		"category": ["France"]
+  },
+  {
+    
+		"name": "City: Marseille",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Metz",
+    
+		"requires": [],
+    
+		"region": "France",
+    
+		"category": ["France"]
+  },
+  {
+    
+		"name": "City: Montpellier",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Nantes",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Nice",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Paluel",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Paris",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France"]
+  },
+  {
+    
+		"name": "City: Porto-Vecchio",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Reims",
+    
+		"requires": [],
+    
+		"region": "France",
+    
+		"category": ["France"]
+  },
+  {
+    
+		"name": "City: Rennes",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Roscoff",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Saint-Alban-du-Rhône",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Saint-Laurent",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+  },
+  {
+    
+		"name": "City: Strasbourg",
+    
+		"requires": [],
+    
+		"region": "France",
+    
+		"category": ["France"]
+  },
+  {
+    
+		"name": "City: Toulouse",
+
+		"requires": [],
+
+		"region": "France",
+
+		"category": ["France", "DLC: France"]
+   },
+   {
+    
+	"name": "Photo Trophy: Bastia International Airport",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Bonifacio Citadel",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Carcassonne Castle",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Clermont-Ferrand Art Museum",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Iroise Bridge",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Louise Weiss Building - European Parliament",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Marseille Office Towers",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Museum of Confluences",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Museum of the Resistance in Peyrat-le-Château",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Nice Football Stadium",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Paris Office Towers",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "Photo Trophy"]
+},
+
+{
+    
+	"name": "Photo Trophy: Toupin Viaduct",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: Castle Ussé",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Civaux Nuclear Power Plant",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Industrial Area of Lacq",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: L'Île-Rousse",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Lake Serre-Ponçon",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Marina of Brest",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Peyrat-le-Château",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Port of Marseille",
+
+	"requires": [],
+
+	"region": "France",
+
+	"category": ["France", "DLC: France", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Berlin",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Bremen",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Cologne",
+
+		"requires": [],
+
+		"region": "Germany",
+
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Dortmund",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Dresden",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Duisburg",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Düsseldorf",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Erfurt",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Frankfurt am Main",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Hamburg",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Hanover",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Kassel",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Kiel",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  
+  {
+    
+		"name": "City: Leipzig",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Magdeburg",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Mannheim",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Munich",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Nuremberg",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Osnabrück",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Rostock",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Stuttgart",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+		"name": "City: Travemünde",
+    
+		"requires": [],
+    
+		"region": "Germany",
+    
+		"category": ["Germany"]
+  },
+  {
+    
+	"name": "Photo Trophy: Begerburg",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+  {
+    
+	"name": "Photo Trophy: Berlin Television Tower",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Dresden Mill",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Düsseldorf Dome",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Ettal Abbey",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Florian Tower",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Football Arena Munich",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Frankfurt Airport Long-distance Station",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Hanover Trade Fair",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: ICC Berlin",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Kiel Central Railway Station",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Köhlbrand Bridge",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Köln Messe/Deutz Station",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Leipzig Hauptbahnhof",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Modern Art Museum Bremen",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Munich Administrative Building",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Natural History Museum Kassel",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Nuremberg Opera House",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Pernicklemühle Osnabrück",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Speyer Bridge",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: St. Peter's Church in Rostock",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Stuttgart State Theater",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Stuttgart Trade Fair Parking Garage",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: Berlin City Centre",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Dresden City Centre",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Duisburg City Centre",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Etall Abbey",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Frankfurt Skyline",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Hanover Cement Factory",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Kassel City Centre",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Viewpoint"]
+},
+
+{
+    
+	"name": "Viewpoint: Nuremberg City Center",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Rostock City Centre",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Stuttgart City Center",
+
+	"requires": [],
+
+	"region": "Germany",
+
+	"category": ["Germany", "Viewpoint"]
+},
+{
+    
+	"name": "City: Argostoli",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece"]
+},
+{
+    
+	"name": "City: Athens",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece"]
+},
+{
+    
+	"name": "City: Chania",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece"]
+},
+{
+    
+	"name": "City: Chios",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece"]
+},
+{
+    
+	"name": "City: Heraklion",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece"]
+},
+{
+    
+	"name": "City: Ioannina",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece"]
+},
+{
+    
+	"name": "City: Kalamata",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece"]
+},
+{
+    
+	"name": "City: Kavala",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece"]
+},
+{
+    
+	"name": "City: Lamia",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece"]
+},
+{
+    
+	"name": "City: Larissa",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece"]
+},
+{
+    
+	"name": "City: Mitilini",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece"]
+},
+{
+    
+	"name": "City: Patras",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece"]
+},
+{
+    
+	"name": "City: Rhodes",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece"]
+},
+{
+    
+	"name": "City: Thessaloniki",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece"]
+},
+{
+    
+	"name": "City: Trikala",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece"]
+},
+{
+    
+	"name": "Photo Trophy: Castle of Mytilene",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece",  "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Church of Saint Tryphon in Lamia",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Church of Virgin Mary in Argostoli",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Church of Virgin Mary in Heraklion",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Kallithea Springs",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Kavala Fortress",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Meteora",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Ministry of Shipping & Island Policy",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Rio-Antirrio Bridge",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Statue of Liberty in Kalamata",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Thessaloniki Intercity Bus Station",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: Corinth Canal",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Faliraki Beach",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Kalabaka and Meteora",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Kavala Marina",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Lake Polyfytos Bridge",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Lesbos Hotel Resort",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Lixouri",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Monastery of Agios Nectarios",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Piraeus Port of Athens",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Port of Souda",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Thessaloniki Cement Plant",
+
+	"requires": [],
+
+	"region": "Greece",
+
+	"category": ["Greece", "DLC: Greece", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Budapest",
+
+		"requires": [],
+
+		"region": "Hungary",
+
+		"category": ["Hungary", "DLC: Going East"]
+  },
+  {
+    
+		"name": "City: Debrecen",
+
+		"requires": [],
+
+		"region": "Hungary",
+
+		"category": ["Hungary", "DLC: Going East"]
+  },
+  {
+    
+		"name": "City: Pécs",
+
+		"requires": [],
+
+		"region": "Hungary",
+
+		"category": ["Hungary", "DLC: Going East"]
+  },
+  {
+    
+		"name": "City: Szeged",
+
+		"requires": [],
+
+		"region": "Hungary",
+
+		"category": ["Hungary", "DLC: Going East"]
+  },
+  {
+    
+	"name": "Photo Trophy: Hungarian Parliament Building",
+
+	"requires": [],
+
+	"region": "Hungary",
+
+	"category": ["Hungary", "DLC: Going East", "Photo Trophy"]
+},
+  {
+    
+		"name": "City: Ancona",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Bari",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Bologna",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Cagliari",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Cassino",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Catania",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Catanzaro",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Florence",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Genoa",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Livorno",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Messina",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Milan",
+    
+		"requires": [],
+    
+		"region": "Italy",
+    
+		"category": ["Italy"]
+  },
+  {
+    
+		"name": "City: Naples",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Olbia",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Palermo",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Parma",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Pescara",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Rome",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Sassari",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Suzzara",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Taranto",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Terni",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+		"name": "City: Turin",
+    
+		"requires": [],
+    
+		"region": "Italy",
+    
+		"category": ["Italy"]
+  },
+  {
+    
+		"name": "City: Venice",
+    
+		"requires": [],
+    
+		"region": "Italy",
+    
+		"category": ["Italy"]
+  },
+  {
+    
+		"name": "City: Verona",
+    
+		"requires": [],
+    
+		"region": "Italy",
+    
+		"category": ["Italy"]
+  },
+  {
+    
+		"name": "City: Villa San Giovanni",
+
+		"requires": [],
+
+		"region": "Italy",
+
+		"category": ["Italy", "DLC: Italia"]
+  },
+  {
+    
+	"name": "Photo Trophy: Artena",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Brancaccio Castle",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Church of St. Mary of Bethlehem",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Favazzina 2012 Bridge",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Photo Trophy"]
+},
+  {
+    
+	"name": "Photo Trophy: Felice Gate",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Mediopadana Railway Station",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Mole Anotelliana",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Mont Blanc",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Mount Etna",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Mount Vesuvius",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Old Fortress in Livorno",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Sarre Royal Castle",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: Carrara Marble Quarry",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: City of Taranto",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Mount Etna",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Port of Bari",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Port of Naples",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Sassari - Church of Saint Mary of Bethlem",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Villa San Giovanni",
+
+	"requires": [],
+
+	"region": "Italy",
+
+	"category": ["Italy", "DLC: Italia", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Kaliningrad",
+
+		"requires": [],
+
+		"region": "Kaliningrad",
+
+		"category": ["Kaliningrad", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Pristina",
+
+		"requires": [],
+
+		"region": "Kosovo",
+
+		"category": ["Kosovo", "DLC: West Balkans"]
+  },
+  {
+    
+	"name": "Photo Trophy: National Library of Kosovo",
+
+	"requires": [],
+
+	"region": "Kosovo",
+
+	"category": ["Kosovo", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: Center of Pristina",
+
+	"requires": [],
+
+	"region": "Kosovo",
+
+	"category": ["Kosovo", "DLC: West Balkans", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Daugavpils",
+
+		"requires": [],
+
+		"region": "Latvia",
+
+		"category": ["Latvia", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Liepaja",
+
+		"requires": [],
+
+		"region": "Latvia",
+
+		"category": ["Latvia", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Rēzekne",
+
+		"requires": [],
+
+		"region": "Latvia",
+
+		"category": ["Latvia", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Riga",
+
+		"requires": [],
+
+		"region": "Latvia",
+
+		"category": ["Latvia", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Valmiera",
+
+		"requires": [],
+
+		"region": "Latvia",
+
+		"category": ["Latvia", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Ventspils",
+
+		"requires": [],
+
+		"region": "Latvia",
+
+		"category": ["Latvia", "DLC: Baltic Sea"]
+  },
+  {
+    
+	"name": "Photo Trophy: Culture Palace in Riga",
+
+	"requires": [],
+
+	"region": "Latvia",
+
+	"category": ["Latvia", "DLC: Baltic Sea", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Riga Radio and TV Tower",
+
+	"requires": [],
+
+	"region": "Latvia",
+
+	"category": ["Latvia", "DLC: Baltic Sea", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: City of Daugavpils",
+
+	"requires": [],
+
+	"region": "Latvia",
+
+	"category": ["Latvia", "DLC: Baltic Sea", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Port of Ventspils",
+
+	"requires": [],
+
+	"region": "Latvia",
+
+	"category": ["Latvia", "DLC: Baltic Sea", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Riga Hydroelectric Power Plant",
+
+	"requires": [],
+
+	"region": "Latvia",
+
+	"category": ["Latvia", "DLC: Baltic Sea", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Valmiera Olympic Center",
+
+	"requires": [],
+
+	"region": "Latvia",
+
+	"category": ["Latvia", "DLC: Baltic Sea", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Kaunas",
+
+		"requires": [],
+
+		"region": "Lithuania",
+
+		"category": ["Lithuania", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Klaipėda",
+
+		"requires": [],
+
+		"region": "Lithuania",
+
+		"category": ["Lithuania", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Mažeikiai",
+
+		"requires": [],
+
+		"region": "Lithuania",
+
+		"category": ["Lithuania", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Panevėžys",
+
+		"requires": [],
+
+		"region": "Lithuania",
+
+		"category": ["Lithuania", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Šiauliai",
+
+		"requires": [],
+
+		"region": "Lithuania",
+
+		"category": ["Lithuania", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Utena",
+
+		"requires": [],
+
+		"region": "Lithuania",
+
+		"category": ["Lithuania", "DLC: Baltic Sea"]
+  },
+  {
+    
+		"name": "City: Vilnius",
+
+		"requires": [],
+
+		"region": "Lithuania",
+
+		"category": ["Lithuania", "DLC: Baltic Sea"]
+  },
+  {
+    
+	"name": "Photo Trophy: Kaunas Railway Station",
+
+	"requires": [],
+
+	"region": "Lithuania",
+
+	"category": ["Lithuania", "DLC: Baltic Sea", "Photo Trophy"]
+},
+  {
+    
+	"name": "Photo Trophy: Klaipėda Marina",
+
+	"requires": [],
+
+	"region": "Lithuania",
+
+	"category": ["Lithuania", "DLC: Baltic Sea", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Vilnius Television Tower",
+
+	"requires": [],
+
+	"region": "Lithuania",
+
+	"category": ["Lithuania", "DLC: Baltic Sea", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: City of Klaipėda",
+
+	"requires": [],
+
+	"region": "Lithuania",
+
+	"category": ["Lithuania", "DLC: Baltic Sea", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Luxembourg",
+    
+		"requires": [],
+    
+		"region": "Luxembourg",
+    
+		"category": ["Luxembourg"]
+  },
+  {
+    
+	"name": "Photo Trophy: State Bank and Savings Fund",
+
+	"requires": [],
+
+	"region": "Luxembourg",
+
+	"category": ["Luxembourg", "Photo Trophy"]
+},
+  {
+    
+		"name": "City: Bijelo Polje",
+
+		"requires": [],
+
+		"region": "Montenegro",
+
+		"category": ["Montenegro", "DLC: West Balkans"]
+  },
+  {
+    
+		"name": "City: Nikšić",
+
+		"requires": [],
+
+		"region": "Montenegro",
+
+		"category": ["Montenegro", "DLC: West Balkans"]
+  },
+  {
+    
+		"name": "City: Podgorica",
+
+		"requires": [],
+
+		"region": "Montenegro",
+
+		"category": ["Montenegro", "DLC: West Balkans"]
+  },
+  {
+    
+	"name": "Photo Trophy: Đurđevića Tara Bridge",
+
+	"requires": [],
+
+	"region": "Montenegro",
+
+	"category": ["Montenegro", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Moračica Bridge",
+
+	"requires": [],
+
+	"region": "Montenegro",
+
+	"category": ["Montenegro", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: Đurđevića Tara Bridge",
+
+	"requires": [],
+
+	"region": "Montenegro",
+
+	"category": ["Montenegro", "DLC: West Balkans", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Amsterdam",
+
+		"requires": [],
+
+		"region": "Netherlands",
+
+		"category": ["Netherlands"]
+  },
+  {
+    
+		"name": "City: Groningen",
+    
+		"requires": [],
+    
+		"region": "Netherlands",
+    
+		"category": ["Netherlands"]
+  },
+  {
+    
+		"name": "City: Rotterdam",
+    
+		"requires": [],
+    
+		"region": "Netherlands",
+    
+		"category": ["Netherlands"]
+  },
+  {
+    
+	"name": "Photo Trophy: Amsterdam Panorama",
+
+	"requires": [],
+
+	"region": "Netherlands",
+
+	"category": ["Netherlands", "Photo Trophy"]
+},
+  {
+    
+		"name": "City: Bitola",
+
+		"requires": [],
+
+		"region": "North Macedonia",
+
+		"category": ["North Macedonia", "DLC: West Balkans"]
+  },
+  {
+    
+		"name": "City: Skopje",
+
+		"requires": [],
+
+		"region": "North Macedonia",
+
+		"category": ["North Macedonia", "DLC: West Balkans"]
+  },
+  {
+    
+	"name": "Photo Trophy: Church of Holy Sunday in Bitola",
+
+	"requires": [],
+
+	"region": "North Macedonia",
+
+	"category": ["North Macedonia", "DLC: West Balkans", "Photo Trophy"]
+},
+  {
+    
+	"name": "Photo Trophy: Skopje Shopping Mall",
+
+	"requires": [],
+
+	"region": "North Macedonia",
+
+	"category": ["North Macedonia", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: Quarry near Gostivar",
+
+	"requires": [],
+
+	"region": "North Macedonia",
+
+	"category": ["North Macedonia", "DLC: West Balkans", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Bergen",
+
+		"requires": [],
+
+		"region": "Norway",
+
+		"category": ["Norway", "DLC: Scandinavia"]
+  },
+  {
+    
+		"name": "City: Kristiansand",
+
+		"requires": [],
+
+		"region": "Norway",
+
+		"category": ["Norway", "DLC: Scandinavia"]
+  },
+  {
+    
+		"name": "City: Oslo",
+
+		"requires": [],
+
+		"region": "Norway",
+
+		"category": ["Norway", "DLC: Scandinavia"]
+  },
+  {
+    
+		"name": "City: Stavanger",
+
+		"requires": [],
+
+		"region": "Norway",
+
+		"category": ["Norway", "DLC: Scandinavia"]
+  },
+{
+    
+	"name": "Photo Trophy: Erfjord Bridge",
+
+	"requires": [],
+
+	"region": "Norway",
+
+	"category": ["Norway", "DLC: Scandinavia", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Feda Fjord Bridge",
+
+	"requires": [],
+
+	"region": "Norway",
+
+	"category": ["Norway", "DLC: Scandinavia", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Hardanger Bridge",
+
+	"requires": [],
+
+	"region": "Norway",
+
+	"category": ["Norway", "DLC: Scandinavia", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Oslo Opera House",
+
+	"requires": [],
+
+	"region": "Norway",
+
+	"category": ["Norway", "DLC: Scandinavia", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Varodd Bridge",
+
+	"requires": [],
+
+	"region": "Norway",
+
+	"category": ["Norway", "DLC: Scandinavia", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: Mabodalen",
+
+	"requires": [],
+
+	"region": "Norway",
+
+	"category": ["Norway", "DLC: Scandinavia", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Bialystok",
+
+		"requires": [],
+
+		"region": "Poland",
+
+		"category": ["Poland", "DLC: Going East"]
+  },
+  {
+    
+		"name": "City: Gdańsk",
+
+		"requires": [],
+
+		"region": "Poland",
+
+		"category": ["Poland", "DLC: Going East"]
+  },
+  {
+    
+		"name": "City: Katowice",
+
+		"requires": [],
+
+		"region": "Poland",
+
+		"category": ["Poland", "DLC: Going East"]
+  },
+  {
+    
+		"name": "City: Kraków",
+
+		"requires": [],
+
+		"region": "Poland",
+
+		"category": ["Poland", "DLC: Going East"]
+  },
+  {
+    
+		"name": "City: Łódź",
+
+		"requires": [],
+
+		"region": "Poland",
+
+		"category": ["Poland", "DLC: Going East"]
+  },
+  {
+    
+		"name": "City: Lublin",
+
+		"requires": [],
+
+		"region": "Poland",
+
+		"category": ["Poland", "DLC: Going East"]
+  },
+  {
+    
+		"name": "City: Olsztyn",
+
+		"requires": [],
+
+		"region": "Poland",
+
+		"category": ["Poland", "DLC: Going East"]
+  },
+  {
+    
+		"name": "City: Poznań",
+
+		"requires": [],
+
+		"region": "Poland",
+
+		"category": ["Poland"]
+  },
+  {
+
+		"name": "City: Szczecin",
+
+		"requires": [],
+
+		"region": "Poland",
+
+		"category": ["Poland"]
+  },
+  {
+
+		"name": "City: Warsaw",
+
+		"requires": [],
+
+		"region": "Poland",
+
+		"category": ["Poland", "DLC: Going East"]
+  },
+  {
+
+		"name": "City: Wrocław",
+
+		"requires": [],
+
+		"region": "Poland",
+
+		"category": ["Poland"]
+  },
+  {
+
+	"name": "Photo Trophy: Gdańsk Old Town",
+
+	"requires": [],
+
+	"region": "Poland",
+
+	"category": ["Poland", "DLC: Going East", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Kraków Panorama",
+
+	"requires": [],
+
+	"region": "Poland",
+
+	"category": ["Poland", "DLC: Going East", "Photo Trophy"]
+},
+  {
+
+	"name": "Photo Trophy: Palace of Culture and Science",
+
+	"requires": [],
+
+	"region": "Poland",
+
+	"category": ["Poland", "DLC: Going East", "Photo Trophy"]
+},
+  {
+
+		"name": "City: Bacău",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+		"name": "City: Brașov",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+		"name": "City: Bucharest",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+		"name": "City: Călărași",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+		"name": "City: Cernavodă",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+		"name": "City: Cluj-Napoca",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+		"name": "City: Constanța",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+		"name": "City: Craiova",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+		"name": "City: Galați",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+		"name": "City: Hunedoara",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+		"name": "City: Iași",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+		"name": "City: Mangalia",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+		"name": "City: Pitești",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+		"name": "City: Reșița",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+		"name": "City: Târgu Mureș",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+		"name": "City: Timișoara",
+
+		"requires": [],
+
+		"region": "Romania",
+
+		"category": ["Romania", "DLC: Black Sea"]
+  },
+  {
+
+	"name": "Photo Trophy: Assumption Cathedral in Reșița",
+
+	"requires": [],
+
+	"region": "Romania",
+
+	"category": ["Romania", "DLC: Black Sea", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Bacău City Center",
+
+	"requires": [],
+
+	"region": "Romania",
+
+	"category": ["Romania", "DLC: Black Sea", "Photo Trophy"]
+},
+  {
+
+	"name": "Photo Trophy: Bran Castle",
+
+	"requires": [],
+
+	"region": "Romania",
+
+	"category": ["Romania", "DLC: Black Sea", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Mangalia Marine Museum",
+
+	"requires": [],
+
+	"region": "Romania",
+
+	"category": ["Romania", "DLC: Black Sea", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Piatra Teiului",
+
+	"requires": [],
+
+	"region": "Romania",
+
+	"category": ["Romania", "DLC: Black Sea", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Rovinari Power Station",
+
+	"requires": [],
+
+	"region": "Romania",
+
+	"category": ["Romania", "DLC: Black Sea", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Saschiz Fortified Church",
+
+	"requires": [],
+
+	"region": "Romania",
+
+	"category": ["Romania", "DLC: Black Sea", "Photo Trophy"]
+},
+{
+
+	"name": "Viewpoint: Cernavodă Bridge",
+
+	"requires": [],
+
+	"region": "Romania",
+
+	"category": ["Romania", "DLC: Black Sea", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: City of Orșova",
+
+	"requires": [],
+
+	"region": "Romania",
+
+	"category": ["Romania", "DLC: Black Sea", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: Piatra Craiului Mountains",
+
+	"requires": [],
+
+	"region": "Romania",
+
+	"category": ["Romania", "DLC: Black Sea", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: Rovinari Power Station",
+
+	"requires": [],
+
+	"region": "Romania",
+
+	"category": ["Romania", "DLC: Black Sea", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: Viaduct Poiana Teiului",
+
+	"requires": [],
+
+	"region": "Romania",
+
+	"category": ["Romania", "DLC: Black Sea", "Viewpoint"]
+},
+  {
+
+		"name": "City: Belgrade",
+
+		"requires": [],
+
+		"region": "Serbia",
+
+		"category": ["Serbia", "DLC: West Balkans"]
+  },
+  {
+
+		"name": "City: Kragujevac",
+
+		"requires": [],
+
+		"region": "Serbia",
+
+		"category": ["Serbia", "DLC: West Balkans"]
+  },
+  {
+
+		"name": "City: Niš",
+
+		"requires": [],
+
+		"region": "Serbia",
+
+		"category": ["Serbia", "DLC: West Balkans"]
+  },
+  {
+
+		"name": "City: Novi Sad",
+
+		"requires": [],
+
+		"region": "Serbia",
+
+		"category": ["Serbia", "DLC: West Balkans"]
+  },
+  {
+
+	"name": "Photo Trophy: Belgrade Residential Tower",
+
+	"requires": [],
+
+	"region": "Serbia",
+
+	"category": ["Serbia", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Mediana Archaeological Site",
+
+	"requires": [],
+
+	"region": "Serbia",
+
+	"category": ["Serbia", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: St. George's Cross",
+
+	"requires": [],
+
+	"region": "Serbia",
+
+	"category": ["Serbia", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Užice Football Stadium",
+
+	"requires": [],
+
+	"region": "Serbia",
+
+	"category": ["Serbia", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+
+	"name": "Viewpoint: Kovacica Wind Park",
+
+	"requires": [],
+
+	"region": "Serbia",
+
+	"category": ["Serbia", "DLC: West Balkans", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: Prokuplje",
+
+	"requires": [],
+
+	"region": "Serbia",
+
+	"category": ["Serbia", "DLC: West Balkans", "Viewpoint"]
+},
+  {
+
+		"name": "City: Banská Bystrica",
+
+		"requires": [],
+
+		"region": "Slovakia",
+
+		"category": ["Slovakia", "DLC: Going East"]
+  },
+  {
+
+		"name": "City: Bratislava",
+
+		"requires": [],
+
+		"region": "Slovakia",
+
+		"category": ["Slovakia"]
+  },
+  {
+
+		"name": "City: Košice",
+
+		"requires": [],
+
+		"region": "Slovakia",
+
+		"category": ["Slovakia", "DLC: Going East"]
+  },
+  {
+
+	"name": "Photo Trophy: Banská Bystrica Old Town",
+
+	"requires": [],
+
+	"region": "Slovakia",
+
+	"category": ["Slovakia", "DLC: Going East", "Photo Trophy"]
+},
+  {
+
+	"name": "Photo Trophy: Bratislava Castle",
+
+	"requires": [],
+
+	"region": "Slovakia",
+
+	"category": ["Slovakia", "Photo Trophy"]
+},
+  {
+
+		"name": "City: Koper",
+
+		"requires": [],
+
+		"region": "Slovenia",
+
+		"category": ["Slovenia", "DLC: West Balkans"]
+  },
+  {
+
+		"name": "City: Ljubljana",
+
+		"requires": [],
+
+		"region": "Slovenia",
+
+		"category": ["Slovenia", "DLC: West Balkans"]
+  },
+  {
+
+		"name": "City: Maribor",
+
+		"requires": [],
+
+		"region": "Slovenia",
+
+		"category": ["Slovenia", "DLC: West Balkans"]
+  },
+  {
+
+		"name": "City: Novo Mesto",
+
+		"requires": [],
+
+		"region": "Slovenia",
+
+		"category": ["Slovenia", "DLC: West Balkans"]
+  },
+  {
+
+	"name": "Photo Trophy: Eastern Panorama of Ljubljana",
+
+	"requires": [],
+
+	"region": "Slovenia",
+
+	"category": ["Slovenia", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Karawanks Tunnel",
+
+	"requires": [],
+
+	"region": "Slovenia",
+
+	"category": ["Slovenia", "DLC: West Balkans", "Photo Trophy"]
+},
+{
+
+	"name": "Viewpoint: Koper",
+
+	"requires": [],
+
+	"region": "Slovenia",
+
+	"category": ["Slovenia", "DLC: West Balkans", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: Ljubljana",
+
+	"requires": [],
+
+	"region": "Slovenia",
+
+	"category": ["Slovenia", "DLC: West Balkans", "Viewpoint"]
+},
+
+  {
+
+		"name": "City: A Coruña",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Albacete",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Algeciras",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Almaraz",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Almería",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Badajoz",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Bailén",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Barcelona",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Bilbao",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Burgos",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Ciudad Real",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Córdoba",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: El Ejido",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Gijón",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Granada",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Huelva",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: León",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Lleida",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Madrid",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Málaga",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Mengíbar",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Murcia",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Navia",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: O Barco",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Pamplona",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Port de Sagunt",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Puertollano",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Salamanca",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Santander",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Seville",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Soria",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Tarragona",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Teruel",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Valencia",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Valladolid",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Vandellòs",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Vigo",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Villareal",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+		"name": "City: Zaragoza",
+
+		"requires": [],
+
+		"region": "Spain",
+
+		"category": ["Spain", "DLC: Iberia"]
+  },
+  {
+
+	"name": "Photo Trophy: Benidorm Panorama",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Botin Center",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Guadiana International Bridge",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Madrid Football Stadium",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Maqueda Castle",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Monument to the Discovery Faith",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Rande Bridge",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: River Guadiana Dam",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Photo Trophy"]
+},
+  {
+
+	"name": "Photo Trophy: Taxation Office Building in Barcelona",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Photo Trophy"]
+},
+{
+
+	"name": "Viewpoint: Greenhouses of El Ejido",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: Los Tres Cuñados Quarry",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: Reservoir of Barrios de Luna",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: The City of Barcelona",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: The Ferry Port of Santander",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: The Parabolic Power Plant of Andalusia",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: The Port of Valencia",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: The Refinery of Puertollano",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: The Shopping Center of Zaragoza",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: The Solar Power Tower of Andalusia",
+
+	"requires": [],
+
+	"region": "Spain",
+
+	"category": ["Spain", "DLC: Iberia", "Viewpoint"]
+},
+  {
+
+		"name": "City: Gothenburg",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+		"name": "City: Helsinborg",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+		"name": "City: Jönköping",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+		"name": "City: Kalmar",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+		"name": "City: Kapellskär",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+		"name": "City: Karlskrona",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+		"name": "City: Linköping",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+		"name": "City: Malmö",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+		"name": "City: Nynäshamn",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+		"name": "City: Örebro",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+		"name": "City: Södertäjle",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+		"name": "City: Stockholm",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+		"name": "City: Trelleborg",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+		"name": "City: Uppsala",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+		"name": "City: Västerås",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+		"name": "City: Växjö",
+
+		"requires": [],
+
+		"region": "Sweden",
+
+		"category": ["Sweden", "DLC: Scandinavia"]
+  },
+  {
+
+	"name": "Photo Trophy: Igelsta Bridge",
+
+	"requires": [],
+
+	"region": "Sweden",
+
+	"category": ["Sweden", "DLC: Scandinavia", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Indoor Arena in Stockholm",
+
+	"requires": [],
+
+	"region": "Sweden",
+
+	"category": ["Sweden", "DLC: Scandinavia", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Kalmar Castle",
+
+	"requires": [],
+
+	"region": "Sweden",
+
+	"category": ["Sweden", "DLC: Scandinavia", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Stockholm Tower",
+
+	"requires": [],
+
+	"region": "Sweden",
+
+	"category": ["Sweden", "DLC: Scandinavia", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Turning Torso",
+
+	"requires": [],
+
+	"region": "Sweden",
+
+	"category": ["Sweden", "DLC: Scandinavia", "Photo Trophy"]
+},
+{
+
+	"name": "Photo Trophy: Uppsala Cathedral",
+
+	"requires": [],
+
+	"region": "Sweden",
+
+	"category": ["Sweden", "DLC: Scandinavia", "Photo Trophy"]
+},
+{
+
+	"name": "Viewpoint: Kalmar",
+
+	"requires": [],
+
+	"region": "Sweden",
+
+	"category": ["Sweden", "DLC: Scandinavia", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: Stockholm",
+
+	"requires": [],
+
+	"region": "Sweden",
+
+	"category": ["Sweden", "DLC: Scandinavia", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Bern",
+    
+		"requires": [],
+    
+		"region": "Switzerland",
+    
+		"category": ["Switzerland"]
+  },
+  {
+    
+		"name": "City: Geneva",
+    
+		"requires": [],
+    
+		"region": "Switzerland",
+    
+		"category": ["Switzerland"]
+  },
+  {
+    
+		"name": "City: Zürich",
+    
+		"requires": [],
+    
+		"region": "Switzerland",
+    
+		"category": ["Switzerland"]
+  },
+  {
+    
+	"name": "Photo Trophy: Chillon Castle",
+
+	"requires": [],
+
+	"region": "Switzerland",
+
+	"category": ["Switzerland", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Col des Roches",
+
+	"requires": [],
+
+	"region": "Switzerland",
+
+	"category": ["Switzerland", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Globe of Science and Innovation",
+
+	"requires": [],
+
+	"region": "Switzerland",
+
+	"category": ["Switzerland", "Photo Trophy"]
+},
+  {
+    
+	"name": "Photo Trophy: Mesocco Castle",
+
+	"requires": [],
+
+	"region": "Switzerland",
+
+	"category": ["Switzerland", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Zentrum Paul Klee",
+
+	"requires": [],
+
+	"region": "Switzerland",
+
+	"category": ["Switzerland", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: Bern Old Town",
+
+	"requires": [],
+
+	"region": "Switzerland",
+
+	"category": ["Switzerland", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Furka Pass",
+
+	"requires": [],
+
+	"region": "Switzerland",
+
+	"category": ["Switzerland", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Geneva",
+
+	"requires": [],
+
+	"region": "Switzerland",
+
+	"category": ["Switzerland", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Viamala",
+
+	"requires": [],
+
+	"region": "Switzerland",
+
+	"category": ["Switzerland", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: Zürich West",
+
+	"requires": [],
+
+	"region": "Switzerland",
+
+	"category": ["Switzerland", "Viewpoint"]
+},
+  {
+    
+		"name": "City: Edirne",
+
+		"requires": [],
+
+		"region": "Türkiye",
+
+		"category": ["Türkiye", "DLC: Black Sea"]
+  },
+  {
+    
+		"name": "City: İstanbul",
+
+		"requires": [],
+
+		"region": "Türkiye",
+
+		"category": ["Türkiye", "DLC: Black Sea"]
+  },
+  {
+    
+		"name": "City: Tekirdağ",
+
+		"requires": [],
+
+		"region": "Türkiye",
+
+		"category": ["Türkiye", "DLC: Black Sea"]
+  },
+  {
+    
+	"name": "Photo Trophy: İstanbul Mall",
+
+	"requires": [],
+
+	"region": "Türkiye",
+
+	"category": ["Türkiye", "DLC: Black Sea", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: Kaikule Mosque",
+
+	"requires": [],
+
+	"region": "Türkiye",
+
+	"category": ["Türkiye", "DLC: Black Sea", "Photo Trophy"]
+},
+{
+    
+	"name": "Viewpoint: City of Edirne",
+
+	"requires": [],
+
+	"region": "Türkiye",
+
+	"category": ["Türkiye", "DLC: Black Sea", "Viewpoint"]
+},
+{
+    
+	"name": "Viewpoint: City of İstanbul",
+
+	"requires": [],
+
+	"region": "Türkiye",
+
+	"category": ["Türkiye", "DLC: Black Sea", "Viewpoint"]
+},
+
+  {
+    
+		"name": "City: Aberdeen",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Birmingham",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Cambridge",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Cardiff",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Carlisle",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Dover",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Edinburgh",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Felixstowe",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Glasgow",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Grimsby",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Liverpool",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: London",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Manchester",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Newcastle-upon-Tyne",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Plymouth",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Sheffield",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Southampton",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+		"name": "City: Swansea",
+    
+		"requires": [],
+    
+		"region": "United Kingdom",
+    
+		"category": ["United Kingdom"]
+  },
+  {
+    
+	"name": "Photo Trophy: City of London",
+
+	"requires": [],
+
+	"region": "United Kingdom",
+
+	"category": ["United Kingdom", "Photo Trophy"]
+},
+{
+    
+	"name": "Photo Trophy: King's College Chapel",
+
+	"requires": [],
+
+	"region": "United Kingdom",
+
+	"category": ["United Kingdom", "Photo Trophy"]
+},
+{
+
+	"name": "City: Luga",
+
+	"requires": [],
+
+	"region": "Russia",
+
+	"category": ["Russia", "DLC: Baltic Sea"]
+},
+{
+
+	"name": "City: Pskov",
+
+	"requires": [],
+
+	"region": "Russia",
+
+	"category": ["Russia", "DLC: Baltic Sea"]
+},
+  {
+
+		"name": "City: Saint Petersburg",
+
+		"requires": [],
+
+		"region": "Russia",
+
+		"category": ["Russia", "DLC: Baltic Sea"]
+  },
+  {
+
+	"name": "City: Sosnovy Bor",
+
+	"requires": [],
+
+	"region": "Russia",
+
+	"category": ["Russia", "DLC: Baltic Sea"]
+},
+{
+
+	"name": "City: Vyborg",
+
+	"requires": [],
+
+	"region": "Russia",
+
+	"category": ["Russia", "DLC: Baltic Sea"]
+},
+{
+
+	"name": "Photo Trophy: Saint Petersburg Panorama",
+
+	"requires": [],
+
+	"region": "Russia",
+
+	"category": ["Russia", "DLC: Baltic Sea", "Photo Trophy"]
+},
+{
+
+	"name": "Viewpoint: The Queen Louise Bridge",
+
+	"requires": [],
+
+	"region": "Russia",
+
+	"category": ["Russia", "DLC: Baltic Sea", "Viewpoint"]
+},
+{
+
+	"name": "Viewpoint: Yelizarov Convent",
+
+	"requires": [],
+
+	"region": "Russia",
+
+	"category": ["Russia", "DLC: Baltic Sea", "Viewpoint"]
+}
+]
